@@ -13,7 +13,8 @@
 }
 
 ul {background-color: rgb(255, 255, 255);
-  overflow: hidden; }
+  overflow: hidden; 
+   position: fixed;}
 
 li {display: inline;
   color: black;
