@@ -1,0 +1,66 @@
+#main {
+	border: 3px solid rgb(169, 169, 169);
+    	background-color: rgb(169, 169, 169);
+	width: 1200px;
+ 	margin-left: auto ;
+  	margin-right: auto ;
+  			
+ 	text-align: center;
+   	 font-size:24;
+    	color:rgb(0, 0, 0);
+    		font-family: Tahoma, Verdana, sans-serif;
+    		
+}
+
+ul {background-color: rgb(255, 255, 255);
+  overflow: hidden; }
+
+li {display: inline;
+  color: black;
+  text-align: center;
+  font-size: 17px}
+
+li a {        
+color: black;    
+text-align: center;    
+padding: 14px 16px;    
+text-decoration: none;
+    
+}
+
+li a:hover:not(.active) {    
+background-color: rgb(221, 221, 221);
+  color: rgb(255,20,147);}
+
+.active {   
+background-color: rgb(221, 221, 221);
+  color: rgb(255,20,147);}
+
+h1 {
+    	color: rgb(0, 0, 0);
+	font-size: 32;
+	font-display: Bold;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+h2 {
+    	color: rgb(0, 0, 0);
+	font-size: 26;
+	font-display: Bold;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+h3 {
+    	color: rgb(0, 0, 0);
+	font-size: 22;
+	font-display: Bold;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+#footer {
+background-color: rgb(255, 255, 255)
+color: rgb(0, 0, 0);
+width:1200px;
+height:80px;
+text-align: center;
+	font-size: 12;
+
+}
